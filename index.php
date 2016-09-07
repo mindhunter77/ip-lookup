@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Just your IP address, nothing else -- really.</title>
+<title>Just your IP address, nothing else -- really!</title>
 <meta name="description" content="No ads, no super-tools, just your ip address.">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
